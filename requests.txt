@@ -1,1 +1,4 @@
-estou no vscode para bazzite atomic
+asarPy==1.0.1
+asgiref==3.11.0
+Django==6.0
+sqlparse==0.5.4
